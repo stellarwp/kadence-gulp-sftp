@@ -3,10 +3,10 @@
   "version": "0.1.8",
   "description": "Upload files via SSH",
   "license": "MIT",
-  "repository": "https://github.com/iconicwp/gulp-sftp",
-  "homepage": "https://github.com/iconicwp/gulp-sftp",
+  "repository": "https://github.com/stellarwp/kadence-gulp-sftp",
+  "homepage": "https://github.com/stellarwp/kadence-gulp-sftp",
   "bugs": {
-    "url": "https://github.com/iconicwp/gulp-sftp/issues"
+    "url": "https://github.com/stellarwp/kadence-gulp-sftp/issues"
   },
   "author": {
     "name": "Matthew Drake",
